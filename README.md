@@ -1,4 +1,4 @@
-# Projeto: Site Sobre Espaço
+# Projeto: Site Sobre Espaço 🪐
 
 Este é um projeto de um site dedicado ao tema do espaço, desenvolvido como parte de um estudo sobre o framework Django para programação web. O foco foi aplicar boas práticas no desenvolvimento e trabalhar com templates dinâmicos para criar uma experiência imersiva e informativa.
 
